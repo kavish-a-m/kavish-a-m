@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavish A M</h1>
+<h1 align="center">Hi , I'm Kavish A M</h1>
 <h3 align="center">Computer Science Student | Aspiring Full-Stack Developer | Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavish-a-m&label=Profile%20views&color=0e75b6&style=flat" alt="kavish-a-m" /> </p>
